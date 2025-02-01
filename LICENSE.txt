@@ -1,0 +1,17 @@
+Licence MIT
+
+Copyright (c) 2025 ATPCZSK
+
+Každé osobě, která získá kopii, je tímto udělena bezplatná licence
+k tomuto softwaru a souvisejícím souborům dokumentace (dále jen „Software“), nakládat se softwarem bez omezení, včetně, bez omezení, práv
+používat, kopírovat, upravovat, slučovat, publikovat, distribuovat, poskytovat sublicence a/nebo prodávat
+kopie Softwaru a umožnit osobám, kterým je Software určen
+k tomu musí být poskytnuty za následujících podmínek:
+
+Výše uvedené upozornění na autorská práva a toto upozornění na povolení musí být součástí všech
+kopie nebo podstatné části Softwaru.
+
+SOFTWARE JE POSKYTOVÁN „TAK, JAK JE“, BEZ ZÁRUKY JAKÉHOKOLI DRUHU, VÝSLOVNÉ NEBO
+PŘEDPOKLÁDANÉ, VČETNĚ, ALE NE OMEZENĚ, ZÁRUK OBCHODOVATELNOSTI, VHODNOSTI PRO KONKRÉTNÍ ÚČEL A NEPORUŠENÍ PRÁV. V ŽÁDNÉM PŘÍPADĚ NENESOU AUTOŘI NEBO NOSITELÉ AUTORSKÝCH PRÁV ODPOVĚDNÍ ZA JAKÉKOLI NÁROKY, ŠKODY NEBO JINÉ
+ODPOVĚDNOST, AŤ JIŽ PŘI AKCI ZE SMLOUVY, deliktu ČI JINAK, VYPLÝVAJÍCÍ ZE SOFTWARU NEBO V SOUVISLOSTI S NÍM NEBO POUŽÍVÁNÍM NEBO JINÝM NAKLÁDÁNÍM
+SOFTWARE.
