@@ -1,0 +1,9 @@
+## Ukázka použití (Usage)
+
+Po spuštění **FlashMandera** se zobrazí menu s několika možnostmi pro správu vašeho systému. Vyberte požadovanou volbu stisknutím čísla a potvrzením pomocí **Enter**. Například, chcete-li spustit defragmentaci, vyberte volbu odpovídající defragmentaci disku.
+
+Příklad:
+1. Spusťte **FlashMandera**.
+2. Zobrazí se seznam dostupných možností.
+3. Zvolte číslo, které odpovídá požadované operaci (např. pro defragmentaci, vyberte volbu "Defragmentace").
+4. Po dokončení operace bude výstup zobrazen v terminálu a můžete pokračovat v dalším výběru nebo program zavřít.
