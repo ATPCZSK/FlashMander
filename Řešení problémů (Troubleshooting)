@@ -1,0 +1,66 @@
+## Řešení problémů (Troubleshooting)
+
+Pokud se při používání **FlashMandera** setkáte s problémy, podívejte se na následující nejběžnější chyby a jak je opravit.
+
+### 1. Program se nespustí nebo se zobrazuje chyba při spuštění
+
+**Problém:** Po pokusu o spuštění **FlashMandera** se zobrazí chybová zpráva nebo program nefunguje.
+
+**Možné příčiny a řešení:**
+- **Problém s administrátorskými právy:** FlashMander vyžaduje administrátorská práva pro provádění změn na systému (např. pro defragmentaci disku). Ujistěte se, že program spouštíte s právy správce. 
+    - **Jak to opravit:** Klikněte pravým tlačítkem na soubor a vyberte "Spustit jako správce".
+
+- **Chybějící soubory:** Pokud některé soubory chybí nebo jsou poškozené, FlashMander se nemusí spustit.
+    - **Jak to opravit:** Zkuste stáhnout a nahrát nejnovější verzi souboru z GitHubu a ujistěte se, že všechny soubory jsou na správném místě.
+
+---
+
+### 2. Možnost v menu nefunguje nebo je neaktivní
+
+**Problém:** Když se dostanete do nabídky a vyberete možnost, program nereaguje nebo se nic nestane.
+
+**Možné příčiny a řešení:**
+- **Nesprávné zadání volby:** Ujistěte se, že zadáváte správnou volbu podle zobrazeného menu. Každá volba je přiřazena k určité možnosti. Po výběru možnosti stiskněte **Enter**, aby byla volba potvrzena.
+    - **Jak to opravit:** Zkontrolujte, že zadáváte volbu správně a po výběru potvrďte stisknutím **Enter**.
+
+- **Problém s terminálem nebo konzolí:** Některé terminály nebo konzole nemusí správně reagovat na klávesové vstupy, což může způsobit, že program nebude reagovat na vaše volby.
+    - **Jak to opravit:** Zkuste použít jiný terminál nebo konzoli. Například, pokud používáte PowerShell, zkuste místo něj použít **cmd** (Příkazový řádek).
+
+---
+
+### 3. Program neukončí nebo zamrzne po výběru volby
+
+**Problém:** Po výběru volby program neukončí nebo se nezobrazuje žádný výstup.
+
+**Možné příčiny a řešení:**
+- **Problémy s výkonem nebo soubory:** Pokud máte mnoho souborů na disku nebo provádíte operace na velkém disku, může to chvíli trvat, než se operace dokončí.
+    - **Jak to opravit:** Počkejte, dokud program dokončí operaci. Ujistěte se, že váš systém není příliš zatížený jinými aplikacemi.
+
+- **Omezený přístup k disku:** Některé operace, jako je defragmentace nebo kontrola disku, mohou vyžadovat, aby byl disk v nečinném stavu.
+    - **Jak to opravit:** Ujistěte se, že žádné programy nevyužívají disk, na kterém provádíte operace.
+
+---
+
+### 4. Výběr možnosti nefunguje správně
+
+**Problém:** I když zadáte číslo možnosti, program nereaguje správně nebo zobrazuje chybovou zprávu.
+
+**Možné příčiny a řešení:**
+- **Špatné zadání:** Pokud zadáte číslo mimo rozsah, program nemusí vědět, jak reagovat.
+    - **Jak to opravit:** Ujistěte se, že zadáváte číslo, které je uvedeno v nabídce. Například pokud je v nabídce volba pro defragmentaci, vyberte tuto volbu a potvrďte ji.
+
+- **Problém s kódováním nebo chybami v softwaru:** Pokud je v softwaru chyba, která způsobuje nesprávné chování při výběru, může to být problém s verzí nebo implementací.
+    - **Jak to opravit:** Zkontrolujte, zda používáte nejnovější verzi **FlashMandera**, a pokud ne, stáhněte a nainstalujte aktualizovanou verzi z GitHubu.
+
+---
+
+### 5. Program neukáže dostupné možnosti v menu
+
+**Problém:** Po spuštění **FlashMandera** nevidíte žádné možnosti v menu, nebo je menu prázdné.
+
+**Možné příčiny a řešení:**
+- **Problém s instalací nebo poškozené soubory:** Pokud soubory nejsou správně načteny, může menu selhat.
+    - **Jak to opravit:** Zkontrolujte, zda všechny soubory jsou správně na svém místě, a znovu stáhněte nejnovější verzi **FlashMandera**.
+
+- **Zastaralá verze:** Pokud používáte starší verzi, mohou být některé funkce chybně zobrazeny.
+    - **Jak to opravit:** Ujistěte se, že máte nainstalovanou nejnovější verzi.
